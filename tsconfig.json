@@ -16,7 +16,7 @@
 		"strict": true,
 		"types": [
 			"svelte"
-		],
+		]
 	},
 	"include": [
 		"src/**/*",
@@ -26,5 +26,5 @@
 		"node_modules/*",
 		"__sapper__/*",
 		"static/*"
-	],
+	]
 }

@@ -1,8 +1,7 @@
 {
-    "recommendations": [
-        "bradlc.vscode-tailwindcss",
-        "dbaeumer.vscode-eslint",
-        "jsayol.firebase-explorer",
-        "svelte.svelte-vscode"
-    ]
+  "recommendations": [
+    "bradlc.vscode-tailwindcss",
+    "dbaeumer.vscode-eslint",
+    "svelte.svelte-vscode"
+  ]
 }

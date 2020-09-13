@@ -1,6 +1,6 @@
 <script>
-	export let title: string;
-	export let paragraph: string;
+  export let title: string;
+  export let paragraph: string;
 </script>
 
 <svelte:options immutable />

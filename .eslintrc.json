@@ -27,13 +27,13 @@
 		"import/no-extraneous-dependencies": "off",
 		"indent": [
 			"error",
-			"tab"
+			2
 		],
 		"no-console": "off",
 		"no-tabs": [
 			"error",
 			{
-				"allowIndentationTabs": true
+				"allowIndentationTabs": false
 			}
 		],
 		"no-unused-vars": [
@@ -45,7 +45,7 @@
 		],
 		"quotes": [
 			"error",
-			"double"
+			"single"
 		]
 	},
 	"overrides": [
